@@ -1,0 +1,10 @@
+*.iml
+Android Client/.gradle
+Android Client/local.properties
+Android Client/.idea/workspace.xml
+Android Client/.idea/libraries
+Android Client/.DS_Store
+Android Client/build
+Android Client/app/build
+Android Client/captures
+Android Client/.externalNativeBuild
